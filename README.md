@@ -23,3 +23,5 @@
 ###### R is pressed to restart the game and Q is for quitting the game.
 
 ###### As the player continues to play, the score and moves is updated.
+
+###### And another approach is agent playing the game and evaluating the observations and probabilities.
